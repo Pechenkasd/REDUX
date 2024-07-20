@@ -34,7 +34,7 @@ const  componentName = () => {
 
   return (
     <div>
-      <h2>calulator</h2>
+      <h2>canculator</h2>
         <div>
         <input
           onChange={oneInp}
